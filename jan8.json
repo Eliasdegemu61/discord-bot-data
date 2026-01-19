@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "target_date": "jan8",
+        "timezone": "UTC+3",
+        "extracted_at": "2026-01-19T09:02:08.481209+00:00"
+    },
+    "vitals": {
+        "total_messages": 884,
+        "active_users_count": 271,
+        "gm_count": 281
+    },
+    "hourly_activity": {
+        "00:00": 2,
+        "01:00": 10,
+        "02:00": 11,
+        "03:00": 7,
+        "04:00": 2,
+        "05:00": 13,
+        "06:00": 35,
+        "07:00": 30,
+        "08:00": 57,
+        "09:00": 49,
+        "10:00": 45,
+        "11:00": 30,
+        "12:00": 34,
+        "13:00": 29,
+        "14:00": 80,
+        "15:00": 45,
+        "16:00": 48,
+        "17:00": 30,
+        "18:00": 17,
+        "19:00": 29,
+        "20:00": 130,
+        "21:00": 108,
+        "22:00": 33,
+        "23:00": 10
+    },
+    "top_moderators": [
+        {
+            "name": "nanee70092",
+            "messages": 23
+        },
+        {
+            "name": "lutzs120",
+            "messages": 4
+        }
+    ],
+    "top_chatters": [
+        {
+            "name": "mrspxce.eth",
+            "messages": 65
+        },
+        {
+            "name": "trishia0579",
+            "messages": 63
+        },
+        {
+            "name": "1papzi",
+            "messages": 53
+        },
+        {
+            "name": "paschalj",
+            "messages": 47
+        },
+        {
+            "name": "pvcuong90",
+            "messages": 32
+        },
+        {
+            "name": "ashik1x2x3x3",
+            "messages": 29
+        },
+        {
+            "name": "nanee70092",
+            "messages": 23
+        },
+        {
+            "name": "mickmite.",
+            "messages": 15
+        },
+        {
+            "name": "mapralmawil",
+            "messages": 15
+        },
+        {
+            "name": "itzremwrld",
+            "messages": 14
+        }
+    ],
+    "ai_analysis": {
+        "summary_paragraph": "",
+        "top_3_questions": [],
+        "summary": "The community is actively discussing Sodex and SoSoValue, with many users seeking clarification on the requirements for the SoSoHolder role, such as staking SOSO tokens and holding SSI indices. Users are also inquiring about the testnet and mainnet, including how to participate, trade, and earn rewards. Some users are sharing invite codes and referral links, while others are asking about the snapshot and distribution of rewards.",
+        "questions": [
+            "What are the exact requirements for the SoSoHolder role, and how can users verify their assets?",
+            "How do users participate in the Sodex testnet and mainnet, and what are the benefits of doing so?",
+            "What is the process for trading on the Sodex mainnet, and are there any specific guidelines or restrictions that users should be aware of?"
+        ]
+    }
+}

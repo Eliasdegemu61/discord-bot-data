@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "target_date": "jan9",
+        "timezone": "UTC+3",
+        "extracted_at": "2026-01-19T09:01:32.719548+00:00"
+    },
+    "vitals": {
+        "total_messages": 291,
+        "active_users_count": 147,
+        "gm_count": 147
+    },
+    "hourly_activity": {
+        "00:00": 5,
+        "01:00": 13,
+        "02:00": 25,
+        "03:00": 6,
+        "04:00": 5,
+        "05:00": 16,
+        "06:00": 10,
+        "07:00": 10,
+        "08:00": 17,
+        "09:00": 23,
+        "10:00": 5,
+        "11:00": 8,
+        "12:00": 7,
+        "13:00": 7,
+        "14:00": 20,
+        "15:00": 13,
+        "16:00": 20,
+        "17:00": 11,
+        "18:00": 6,
+        "19:00": 13,
+        "20:00": 10,
+        "21:00": 16,
+        "22:00": 18,
+        "23:00": 7
+    },
+    "top_moderators": [
+        {
+            "name": "nanee70092",
+            "messages": 10
+        }
+    ],
+    "top_chatters": [
+        {
+            "name": "pvcuong90",
+            "messages": 16
+        },
+        {
+            "name": "zaaktech0488",
+            "messages": 12
+        },
+        {
+            "name": "nanee70092",
+            "messages": 10
+        },
+        {
+            "name": "heiscasey",
+            "messages": 8
+        },
+        {
+            "name": "eemree07",
+            "messages": 8
+        },
+        {
+            "name": "mickmite.",
+            "messages": 6
+        },
+        {
+            "name": "anjerlem",
+            "messages": 5
+        },
+        {
+            "name": "vannangma",
+            "messages": 5
+        },
+        {
+            "name": "real_xc",
+            "messages": 5
+        },
+        {
+            "name": "tsundu39",
+            "messages": 5
+        }
+    ],
+    "ai_analysis": {
+        "summary_paragraph": "",
+        "top_3_questions": [],
+        "summary": "The community is actively discussing Sodex and SosoValue, with many users seeking invitation codes and whitelist referrals for Sodex. There's a sense of excitement and anticipation, but also caution due to the presence of scammers. Some users are reporting issues with their accounts, such as not receiving roles after purchasing SSI/SOSO tokens, while others are inquiring about the requirements for obtaining the SoSoHolders role. The community is also abuzz with discussions about the S2 airdrop and the SoDEX Mainnet Pioneer role.",
+        "questions": [
+            "What is the minimum holding requirement to automatically qualify for the SoSoHolders role?",
+            "How can users obtain the SoDEX Mainnet Pioneer role?",
+            "When will the snapshot be taken for the S2 airdrop?"
+        ]
+    }
+}

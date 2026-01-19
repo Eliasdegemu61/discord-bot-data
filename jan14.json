@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "target_date": "jan14",
+        "timezone": "UTC+3",
+        "extracted_at": "2026-01-19T08:02:48.613280+00:00"
+    },
+    "vitals": {
+        "total_messages": 1178,
+        "active_users_count": 361,
+        "gm_count": 334
+    },
+    "hourly_activity": {
+        "00:00": 12,
+        "01:00": 11,
+        "02:00": 9,
+        "03:00": 10,
+        "04:00": 9,
+        "05:00": 8,
+        "06:00": 14,
+        "07:00": 13,
+        "08:00": 11,
+        "09:00": 40,
+        "10:00": 38,
+        "11:00": 21,
+        "12:00": 13,
+        "13:00": 23,
+        "14:00": 278,
+        "15:00": 81,
+        "16:00": 41,
+        "17:00": 62,
+        "18:00": 93,
+        "19:00": 43,
+        "20:00": 22,
+        "21:00": 49,
+        "22:00": 162,
+        "23:00": 115
+    },
+    "top_moderators": [
+        {
+            "name": "lutzs120",
+            "messages": 19
+        },
+        {
+            "name": "nanee70092",
+            "messages": 4
+        }
+    ],
+    "top_chatters": [
+        {
+            "name": "ayomide.joshua",
+            "messages": 98
+        },
+        {
+            "name": "shivaay108",
+            "messages": 88
+        },
+        {
+            "name": "sasha4liff",
+            "messages": 53
+        },
+        {
+            "name": "mujjukhans",
+            "messages": 36
+        },
+        {
+            "name": "phileski8213",
+            "messages": 36
+        },
+        {
+            "name": "ayanwale127750",
+            "messages": 24
+        },
+        {
+            "name": "lutzs120",
+            "messages": 19
+        },
+        {
+            "name": "khan.rock007",
+            "messages": 19
+        },
+        {
+            "name": "mickmite.",
+            "messages": 18
+        },
+        {
+            "name": "kittikom_",
+            "messages": 17
+        }
+    ],
+    "ai_analysis": {
+        "summary_paragraph": "",
+        "top_3_questions": [],
+        "summary": "The community is lively, with users discussing various topics, including Soso and Sodex. Some users are experiencing issues with Soso holder verification, while others are inquiring about the requirements for certain roles. The general mood is positive, with many users engaging in casual conversations and sharing their experiences. There are also discussions about trading, with some users mentioning Soso as a good option.",
+        "questions": [
+            "What are the current issues with Soso holder verification and how can they be resolved?",
+            "What are the requirements for obtaining certain roles within the Sodex community, and how can users achieve them?",
+            "How can users effectively trade with Soso, and what are the benefits of doing so within the Sodex ecosystem?"
+        ]
+    }
+}

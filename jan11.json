@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "target_date": "jan11",
+        "timezone": "UTC+3",
+        "extracted_at": "2026-01-19T09:00:14.399530+00:00"
+    },
+    "vitals": {
+        "total_messages": 446,
+        "active_users_count": 133,
+        "gm_count": 122
+    },
+    "hourly_activity": {
+        "00:00": 8,
+        "01:00": 8,
+        "02:00": 1,
+        "03:00": 6,
+        "04:00": 18,
+        "05:00": 7,
+        "06:00": 4,
+        "07:00": 6,
+        "08:00": 15,
+        "09:00": 14,
+        "10:00": 25,
+        "11:00": 167,
+        "12:00": 16,
+        "13:00": 19,
+        "14:00": 25,
+        "15:00": 26,
+        "16:00": 12,
+        "17:00": 12,
+        "18:00": 16,
+        "19:00": 12,
+        "20:00": 10,
+        "21:00": 5,
+        "22:00": 10,
+        "23:00": 4
+    },
+    "top_moderators": [
+        {
+            "name": "nanee70092",
+            "messages": 6
+        },
+        {
+            "name": "lutzs120",
+            "messages": 6
+        },
+        {
+            "name": "vigo06879",
+            "messages": 1
+        }
+    ],
+    "top_chatters": [
+        {
+            "name": "nisar_khisrow",
+            "messages": 78
+        },
+        {
+            "name": "loveed2025_33971",
+            "messages": 58
+        },
+        {
+            "name": "pawton0469",
+            "messages": 20
+        },
+        {
+            "name": "kietdinhzzz",
+            "messages": 13
+        },
+        {
+            "name": "pvcuong90",
+            "messages": 8
+        },
+        {
+            "name": "mickmite.",
+            "messages": 7
+        },
+        {
+            "name": "starceps",
+            "messages": 7
+        },
+        {
+            "name": "aeszz_3",
+            "messages": 7
+        },
+        {
+            "name": "midrisc8",
+            "messages": 7
+        },
+        {
+            "name": "demarco2025",
+            "messages": 7
+        }
+    ],
+    "ai_analysis": {
+        "summary_paragraph": "",
+        "top_3_questions": [],
+        "summary": "The community is discussing various topics related to Sodex and SosoValue, including testnet points, roles, and security concerns. Many users are asking about how to get certain roles, such as the 'Holder' role on SOSO, and some are warning about scammers and fake links. The overall mood is cautious, with users advising each other to be careful and not share personal information or wallet addresses.",
+        "questions": [
+            "How do I get the 'Holder' role on SOSO?",
+            "What is the minimum amount of $SOSO tokens required to get the 'Holder' role?",
+            "Are there any security measures in place to protect users from scammers and fake links?"
+        ]
+    }
+}

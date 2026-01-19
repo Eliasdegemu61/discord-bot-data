@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "target_date": "jan5",
+        "timezone": "UTC+3",
+        "extracted_at": "2026-01-19T09:05:01.095711+00:00"
+    },
+    "vitals": {
+        "total_messages": 402,
+        "active_users_count": 111,
+        "gm_count": 82
+    },
+    "hourly_activity": {
+        "00:00": 2,
+        "01:00": 8,
+        "03:00": 1,
+        "04:00": 4,
+        "05:00": 5,
+        "06:00": 2,
+        "07:00": 6,
+        "08:00": 12,
+        "09:00": 18,
+        "10:00": 26,
+        "11:00": 21,
+        "12:00": 22,
+        "13:00": 30,
+        "14:00": 35,
+        "15:00": 20,
+        "16:00": 16,
+        "17:00": 13,
+        "18:00": 16,
+        "19:00": 7,
+        "20:00": 20,
+        "21:00": 14,
+        "22:00": 15,
+        "23:00": 89
+    },
+    "top_moderators": [
+        {
+            "name": "nanee70092",
+            "messages": 6
+        },
+        {
+            "name": "vigo06879",
+            "messages": 3
+        },
+        {
+            "name": "lutzs120",
+            "messages": 1
+        }
+    ],
+    "top_chatters": [
+        {
+            "name": "mineancy",
+            "messages": 48
+        },
+        {
+            "name": "thedrill01",
+            "messages": 38
+        },
+        {
+            "name": "mickmite.",
+            "messages": 29
+        },
+        {
+            "name": "ashik1x2x3x3",
+            "messages": 26
+        },
+        {
+            "name": "tinoha1305",
+            "messages": 20
+        },
+        {
+            "name": "tsunami_87631",
+            "messages": 12
+        },
+        {
+            "name": "sannydiq",
+            "messages": 9
+        },
+        {
+            "name": "arkman4",
+            "messages": 8
+        },
+        {
+            "name": "cryptoarun",
+            "messages": 7
+        },
+        {
+            "name": "nikhik",
+            "messages": 7
+        }
+    ],
+    "ai_analysis": {
+        "summary_paragraph": "",
+        "top_3_questions": []
+    }
+}

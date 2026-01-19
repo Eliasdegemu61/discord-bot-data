@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "target_date": "jan3",
+        "timezone": "UTC+3",
+        "extracted_at": "2026-01-19T14:44:22.863742+00:00"
+    },
+    "vitals": {
+        "total_messages": 322,
+        "active_users_count": 90,
+        "gm_count": 86
+    },
+    "hourly_activity": {
+        "00:00": 11,
+        "01:00": 6,
+        "02:00": 2,
+        "03:00": 3,
+        "04:00": 1,
+        "05:00": 6,
+        "06:00": 13,
+        "07:00": 22,
+        "08:00": 29,
+        "09:00": 17,
+        "10:00": 17,
+        "11:00": 25,
+        "12:00": 19,
+        "13:00": 6,
+        "14:00": 18,
+        "15:00": 16,
+        "16:00": 10,
+        "17:00": 26,
+        "18:00": 18,
+        "19:00": 13,
+        "20:00": 21,
+        "21:00": 7,
+        "22:00": 9,
+        "23:00": 7
+    },
+    "top_moderators": [
+        {
+            "name": "lutzs120",
+            "messages": 18
+        },
+        {
+            "name": "nanee70092",
+            "messages": 6
+        },
+        {
+            "name": "vigo06879",
+            "messages": 1
+        }
+    ],
+    "top_chatters": [
+        {
+            "name": "mickmite.",
+            "messages": 28
+        },
+        {
+            "name": "ashik1x2x3x3",
+            "messages": 22
+        },
+        {
+            "name": "torvic_o",
+            "messages": 21
+        },
+        {
+            "name": "lutzs120",
+            "messages": 18
+        },
+        {
+            "name": "real_xc",
+            "messages": 14
+        },
+        {
+            "name": "techbundo",
+            "messages": 13
+        },
+        {
+            "name": "tsunami_87631",
+            "messages": 12
+        },
+        {
+            "name": "mukwas",
+            "messages": 10
+        },
+        {
+            "name": "joyful_badger_39973",
+            "messages": 9
+        },
+        {
+            "name": "sadam058854",
+            "messages": 9
+        }
+    ],
+    "ai_analysis": {
+        "summary_paragraph": "",
+        "top_3_questions": [],
+        "summary": "The community is actively discussing Sodex and SoSoValue, with users inquiring about testnet codes, experiencing issues with wallet connections, and asking about the snapshot date. Many users are excited about farming points and grinding to reach the top leaderboard. Some users have reported issues with registering on the platform and are seeking assistance. The community is also discussing the potential for price pumps and the importance of being aware of scammers. A community member has created a prototype tool called 'SoDEX AI Dashboard' that uses AI to predict market sentiment and simulate price scenarios.",
+        "questions": [
+            "What is the process for obtaining a testnet code to access the Sodex testnet?",
+            "How can users resolve issues with connecting their wallets to the SoSoValue platform?",
+            "Is there an announcement regarding the snapshot date for Sodex, and what are the eligible criteria for participation?"
+        ]
+    }
+}

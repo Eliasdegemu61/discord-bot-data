@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "target_date": "jan7",
+        "timezone": "UTC+3",
+        "extracted_at": "2026-01-19T09:02:53.683868+00:00"
+    },
+    "vitals": {
+        "total_messages": 406,
+        "active_users_count": 105,
+        "gm_count": 92
+    },
+    "hourly_activity": {
+        "00:00": 5,
+        "01:00": 9,
+        "02:00": 4,
+        "03:00": 27,
+        "04:00": 38,
+        "05:00": 2,
+        "06:00": 9,
+        "07:00": 13,
+        "08:00": 11,
+        "09:00": 19,
+        "10:00": 20,
+        "11:00": 59,
+        "12:00": 37,
+        "13:00": 23,
+        "14:00": 18,
+        "15:00": 27,
+        "16:00": 14,
+        "17:00": 16,
+        "18:00": 12,
+        "19:00": 10,
+        "20:00": 10,
+        "21:00": 4,
+        "22:00": 7,
+        "23:00": 12
+    },
+    "top_moderators": [
+        {
+            "name": "nanee70092",
+            "messages": 13
+        },
+        {
+            "name": "lutzs120",
+            "messages": 2
+        }
+    ],
+    "top_chatters": [
+        {
+            "name": "mrspxce.eth",
+            "messages": 62
+        },
+        {
+            "name": "ashik1x2x3x3",
+            "messages": 49
+        },
+        {
+            "name": "anjerlem",
+            "messages": 40
+        },
+        {
+            "name": "mickmite.",
+            "messages": 23
+        },
+        {
+            "name": "tinoha1305",
+            "messages": 14
+        },
+        {
+            "name": "torvic_o",
+            "messages": 14
+        },
+        {
+            "name": "nanee70092",
+            "messages": 13
+        },
+        {
+            "name": "tsundu39",
+            "messages": 9
+        },
+        {
+            "name": "marcelopvh",
+            "messages": 7
+        },
+        {
+            "name": "0xdanss",
+            "messages": 6
+        }
+    ],
+    "ai_analysis": {
+        "summary_paragraph": "",
+        "top_3_questions": [],
+        "summary": "The community is actively discussing Sodex and SosoValue, with many users expressing their excitement and anticipation for the upcoming airdrop. Some users are facing issues with connecting their wallets, while others are inquiring about the eligibility criteria for the S2 airdrop. The mood is generally positive, with users supporting and helping each other with their queries.",
+        "questions": [
+            "What are the eligibility criteria for the S2 airdrop, and is participating in the affiliate program compulsory?",
+            "How can users resolve issues with connecting their wallets, such as the connection indicator not showing?",
+            "When can users expect the distribution of SosoValue tokens, and what is the current status of the S2 airdrop?"
+        ]
+    }
+}

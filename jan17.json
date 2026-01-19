@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "target_date": "jan17",
+        "timezone": "UTC+3",
+        "extracted_at": "2026-01-19T07:25:38.352507+00:00"
+    },
+    "vitals": {
+        "total_messages": 7960,
+        "active_users_count": 107,
+        "gm_count": 45
+    },
+    "hourly_activity": {
+        "00:00": 40,
+        "01:00": 60,
+        "02:00": 70,
+        "03:00": 175,
+        "04:00": 455,
+        "05:00": 90,
+        "06:00": 325,
+        "07:00": 205,
+        "08:00": 25,
+        "09:00": 155,
+        "10:00": 230,
+        "11:00": 80,
+        "12:00": 100,
+        "13:00": 160,
+        "14:00": 465,
+        "15:00": 125,
+        "16:00": 230,
+        "17:00": 460,
+        "18:00": 200,
+        "19:00": 480,
+        "20:00": 265,
+        "21:00": 370,
+        "22:00": 425,
+        "23:00": 2770
+    },
+    "top_moderators": [
+        {
+            "name": "lutzs120",
+            "messages": 10
+        },
+        {
+            "name": "nanee70092",
+            "messages": 5
+        }
+    ],
+    "top_chatters": [
+        {
+            "name": "jema2005._34527",
+            "messages": 1030
+        },
+        {
+            "name": "elohorcaleb",
+            "messages": 770
+        },
+        {
+            "name": "micheal159357",
+            "messages": 665
+        },
+        {
+            "name": "mrspalm75",
+            "messages": 560
+        },
+        {
+            "name": "cryptogeof",
+            "messages": 440
+        },
+        {
+            "name": "willystunner",
+            "messages": 395
+        },
+        {
+            "name": "stephenkay.",
+            "messages": 390
+        },
+        {
+            "name": "sasha4liff",
+            "messages": 340
+        },
+        {
+            "name": "tolima889",
+            "messages": 320
+        },
+        {
+            "name": "loveed2025_33971",
+            "messages": 275
+        }
+    ],
+    "ai_analysis": {
+        "summary_paragraph": "",
+        "top_3_questions": [],
+        "error": "AI analysis failed: Error code: 400 - {'error': {'message': \"'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'.\", 'type': 'invalid_request_error'}}"
+    }
+}

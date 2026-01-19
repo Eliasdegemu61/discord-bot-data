@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "target_date": "jan19",
+        "timezone": "UTC+3",
+        "extracted_at": "2026-01-19T21:13:22.960712+00:00"
+    },
+    "vitals": {
+        "total_messages": 757,
+        "active_users_count": 239,
+        "gm_count": 225
+    },
+    "hourly_activity": {
+        "00:00": 10,
+        "01:00": 9,
+        "02:00": 12,
+        "03:00": 2,
+        "04:00": 1,
+        "05:00": 9,
+        "06:00": 25,
+        "07:00": 22,
+        "08:00": 41,
+        "09:00": 31,
+        "10:00": 26,
+        "11:00": 63,
+        "12:00": 43,
+        "13:00": 14,
+        "14:00": 34,
+        "15:00": 146,
+        "16:00": 89,
+        "17:00": 57,
+        "18:00": 21,
+        "19:00": 28,
+        "20:00": 11,
+        "21:00": 8,
+        "22:00": 25,
+        "23:00": 30
+    },
+    "top_moderators": [
+        {
+            "name": "lutzs120",
+            "messages": 21
+        },
+        {
+            "name": "mickmite.",
+            "messages": 13
+        },
+        {
+            "name": "nanee70092",
+            "messages": 10
+        },
+        {
+            "name": "vigo06879",
+            "messages": 6
+        }
+    ],
+    "top_chatters": [
+        {
+            "name": "huzaim_web3",
+            "messages": 65
+        },
+        {
+            "name": "mrspalm75",
+            "messages": 65
+        },
+        {
+            "name": "babxee",
+            "messages": 46
+        },
+        {
+            "name": "topg_1818",
+            "messages": 24
+        },
+        {
+            "name": "lutzs120",
+            "messages": 21
+        },
+        {
+            "name": "hkfrayoo",
+            "messages": 21
+        },
+        {
+            "name": "cryptogeof",
+            "messages": 18
+        },
+        {
+            "name": "bongddalgi",
+            "messages": 17
+        },
+        {
+            "name": "chess6",
+            "messages": 15
+        },
+        {
+            "name": "derrick8792",
+            "messages": 14
+        }
+    ],
+    "ai_analysis": {
+        "summary_paragraph": "",
+        "top_3_questions": [],
+        "summary": "The community is actively engaging with the Sodex and SosoValue platforms, discussing various aspects such as mainnet and testnet trading, wallet connections, and volume generation. Some users are seeking guidance on how to participate, while others are sharing their experiences and offering advice. The mood is generally inquisitive and optimistic, with users looking to learn more about the platforms and their potential rewards.",
+        "questions": [
+            "What are the specific requirements for participating in Sodex mainnet trading, and how can users ensure they meet the eligibility criteria?",
+            "How do users generate volume on the Sodex platform, and what are the benefits of doing so?",
+            "Will Discord roles, such as SoSoHolder, have an impact on the rewards or allocation on the Sodex platform, and if so, how can users obtain these roles?"
+        ]
+    }
+}

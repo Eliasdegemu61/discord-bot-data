@@ -2,7 +2,7 @@
     "metadata": {
         "target_date": "jan18",
         "timezone": "UTC+3",
-        "extracted_at": "2026-01-19T07:34:40.907551+00:00"
+        "extracted_at": "2026-01-19T07:38:33.420635+00:00"
     },
     "vitals": {
         "total_messages": 7180,
@@ -83,7 +83,33 @@
         }
     ],
     "ai_analysis": {
-        "summary_paragraph": "",
-        "top_3_questions": []
+        "summary_paragraph": {
+            "date": "jan18",
+            "logs": "various conversations among users on the Sodex platform",
+            "key_topics": [
+                "Sodex",
+                "SoSo",
+                "testnet",
+                "rewards",
+                "KYC",
+                "levels",
+                "ranks"
+            ],
+            "user_sentiment": "mostly positive"
+        },
+        "top_3_questions": [
+            {
+                "question": "What is the primary topic of conversation among users on the Sodex platform?",
+                "answer": "Sodex, SoSo, and related topics"
+            },
+            {
+                "question": "What is the overall sentiment of users on the Sodex platform?",
+                "answer": "Mostly positive"
+            },
+            {
+                "question": "What are some of the key topics discussed by users on the Sodex platform?",
+                "answer": "Testnet, rewards, KYC, levels, ranks, and more"
+            }
+        ]
     }
 }

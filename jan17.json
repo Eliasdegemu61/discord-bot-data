@@ -2,94 +2,99 @@
     "metadata": {
         "target_date": "jan17",
         "timezone": "UTC+3",
-        "extracted_at": "2026-01-19T07:25:38.352507+00:00"
+        "extracted_at": "2026-01-19T07:54:28.385788+00:00"
     },
     "vitals": {
-        "total_messages": 7960,
-        "active_users_count": 107,
-        "gm_count": 45
+        "total_messages": 1758,
+        "active_users_count": 182,
+        "gm_count": 163
     },
     "hourly_activity": {
-        "00:00": 40,
-        "01:00": 60,
-        "02:00": 70,
-        "03:00": 175,
-        "04:00": 455,
-        "05:00": 90,
-        "06:00": 325,
-        "07:00": 205,
-        "08:00": 25,
-        "09:00": 155,
-        "10:00": 230,
-        "11:00": 80,
-        "12:00": 100,
-        "13:00": 160,
-        "14:00": 465,
-        "15:00": 125,
-        "16:00": 230,
-        "17:00": 460,
-        "18:00": 200,
-        "19:00": 480,
-        "20:00": 265,
-        "21:00": 370,
-        "22:00": 425,
-        "23:00": 2770
+        "00:00": 17,
+        "01:00": 14,
+        "02:00": 18,
+        "03:00": 42,
+        "04:00": 100,
+        "05:00": 25,
+        "06:00": 70,
+        "07:00": 45,
+        "08:00": 9,
+        "09:00": 46,
+        "10:00": 55,
+        "11:00": 23,
+        "12:00": 27,
+        "13:00": 38,
+        "14:00": 98,
+        "15:00": 34,
+        "16:00": 54,
+        "17:00": 105,
+        "18:00": 50,
+        "19:00": 102,
+        "20:00": 57,
+        "21:00": 79,
+        "22:00": 91,
+        "23:00": 559
     },
     "top_moderators": [
         {
-            "name": "lutzs120",
-            "messages": 10
+            "name": "nanee70092",
+            "messages": 3
         },
         {
-            "name": "nanee70092",
-            "messages": 5
+            "name": "lutzs120",
+            "messages": 2
         }
     ],
     "top_chatters": [
         {
             "name": "jema2005._34527",
-            "messages": 1030
+            "messages": 207
         },
         {
             "name": "elohorcaleb",
-            "messages": 770
+            "messages": 154
         },
         {
             "name": "micheal159357",
-            "messages": 665
+            "messages": 139
         },
         {
             "name": "mrspalm75",
-            "messages": 560
+            "messages": 112
         },
         {
             "name": "cryptogeof",
-            "messages": 440
+            "messages": 88
         },
         {
             "name": "willystunner",
-            "messages": 395
+            "messages": 79
         },
         {
             "name": "stephenkay.",
-            "messages": 390
+            "messages": 78
         },
         {
             "name": "sasha4liff",
-            "messages": 340
+            "messages": 69
         },
         {
             "name": "tolima889",
-            "messages": 320
+            "messages": 64
         },
         {
             "name": "loveed2025_33971",
-            "messages": 275
+            "messages": 57
         }
     ],
     "ai_analysis": {
         "summary_paragraph": "",
         "top_3_questions": [],
-        "error": "AI analysis failed: Error code: 400 - {'error': {'message': \"'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'.\", 'type': 'invalid_request_error'}}"
+        "summary": "The community is discussing the Sodex mainnet and SosoValue, with some users expressing frustration and disappointment with the experience so far. Some users are asking about the level system and how to check their progress, while others are sharing their own experiences and offering advice. The overall mood is mixed, with some users expressing optimism and others feeling pessimistic.",
+        "questions": [
+            "What are the requirements for achieving higher levels in SosoValue?",
+            "How do users check their current level and progress in the SosoValue system?",
+            "What are the potential benefits and rewards of participating in the Sodex mainnet and SosoValue programs?"
+        ]
     }
 }

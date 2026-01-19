@@ -1,46 +1,49 @@
 {
     "metadata": {
-        "report_name": "jan18.json",
-        "generated_at": "2026-01-19T06:33:52.961389+00:00"
+        "target_date": "jan18",
+        "timezone": "UTC+3",
+        "range": {
+            "start": "2026-01-18T00:00:00+03:00",
+            "end": "2026-01-18T23:59:59+03:00"
+        }
     },
     "vitals": {
-        "total_messages": 4505,
-        "active_users_count": 83,
-        "gm_count": 50
+        "total_messages": 7180,
+        "active_users_count": 86,
+        "gm_count": 40
     },
     "hourly_activity": {
-        "02:00": 5,
-        "03:00": 20,
-        "04:00": 35,
-        "05:00": 130,
-        "06:00": 95,
-        "07:00": 145,
-        "08:00": 115,
-        "09:00": 250,
-        "10:00": 380,
-        "11:00": 660,
-        "12:00": 415,
-        "13:00": 695,
-        "14:00": 255,
-        "15:00": 50,
-        "16:00": 170,
-        "17:00": 245,
-        "18:00": 260,
-        "19:00": 315,
-        "20:00": 175,
-        "21:00": 15,
-        "22:00": 35,
-        "23:00": 40
+        "00:00": 1720,
+        "01:00": 45,
+        "02:00": 10,
+        "04:00": 170,
+        "05:00": 450,
+        "06:00": 180,
+        "07:00": 185,
+        "08:00": 215,
+        "09:00": 75,
+        "10:00": 145,
+        "11:00": 115,
+        "12:00": 250,
+        "13:00": 380,
+        "14:00": 660,
+        "15:00": 415,
+        "16:00": 695,
+        "17:00": 255,
+        "18:00": 50,
+        "19:00": 170,
+        "20:00": 245,
+        "21:00": 260,
+        "22:00": 315,
+        "23:00": 175
     },
     "top_moderators": [],
     "ai_analysis": {
-        "summary_paragraph": "The Discord logs primarily consist of casual conversations and discussions among community members, with some users inquiring about the SosoValue and SSI projects, including the role of holders and requirements to obtain the 'Holder' role. Some users also share their experiences and strategies related to trading, with a few discussing the recent Bitcoin dip and their reactions to it. Moderators remind users to follow community guidelines and keep the chat focused on relevant topics.",
+        "summary_paragraph": "The provided logs appear to be a collection of chats from a social media platform or online community, seemingly focused on topics like cryptocurrency, web3 projects, and social interactions among members. Discussions range from casual conversations about daily life, religious beliefs, and personal experiences to more specific topics like the Sodex testnet, Sosovalue, and expectations around airdrops or token prices. The tone varies between humorous, supportive, and inquisitive, with members engaging in banter, sharing information, and seeking advice or clarification on various subjects.",
         "top_3_questions": [
-            "What are the requirements to get the Soso Holder role?",
-            "How many tokens do I need to hold to become a holder?",
-            "What is the best leverage to use when trading futures?",
-            "Is it a good time to open a position after the Bitcoin dip?",
-            "How do I participate in the Sodex Testnet airdrop rewards?"
+            "What is the primary focus of the community based on the provided logs?",
+            "How do members interact with each other in terms of support and camaraderie?",
+            "What specific projects or topics, such as Sodex or Sosovalue, are frequently discussed in the community?"
         ]
     }
 }

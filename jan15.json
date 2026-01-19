@@ -2,7 +2,7 @@
     "metadata": {
         "target_date": "jan15",
         "timezone": "UTC+3",
-        "extracted_at": "2026-01-19T08:00:26.138616+00:00"
+        "extracted_at": "2026-01-19T08:57:04.251030+00:00"
     },
     "vitals": {
         "total_messages": 3912,
@@ -90,11 +90,11 @@
     "ai_analysis": {
         "summary_paragraph": "",
         "top_3_questions": [],
-        "summary": "The community is actively discussing Sodex and SosoValue, with many users eager to learn more about the rewards and grind levels. Some users are expressing frustration and fatigue, while others are motivating and encouraging each other to reach higher levels. There are also discussions about referrals, verification, and the potential for a Sybil attack. The overall mood is a mix of excitement, motivation, and frustration.",
+        "summary": "The community is actively discussing Sodex and SosoValue, with users grinding and trying to reach higher levels to earn rewards. There is a lot of engagement and conversation about the challenges and opportunities in the Sodex ecosystem, with some users expressing frustration about the difficulty of achieving high levels and others sharing their progress and offering encouragement.",
         "questions": [
-            "Will all testers be rewarded, or only those who reach certain milestones?",
-            "How can users protect themselves from potential scams and Sybil attacks?",
-            "What are the specific requirements for earning rewards and advancing through the grind levels in Sodex and SosoValue?"
+            "How can users effectively participate in the Sodex testnet and earn rewards?",
+            "What are the requirements to be eligible for the SosoValue airdrop, and how can users increase their chances of receiving a larger allocation?",
+            "Are there any separate rewards or incentives for users who participate in the Discord roles and Angels allocation for Sodex?"
         ]
     }
 }

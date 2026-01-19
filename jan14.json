@@ -2,7 +2,7 @@
     "metadata": {
         "target_date": "jan14",
         "timezone": "UTC+3",
-        "extracted_at": "2026-01-19T09:42:57.448004+00:00"
+        "extracted_at": "2026-01-19T09:52:04.455298+00:00"
     },
     "vitals": {
         "total_messages": 1178,
@@ -89,6 +89,12 @@
     ],
     "ai_analysis": {
         "summary_paragraph": "",
-        "top_3_questions": []
+        "top_3_questions": [],
+        "summary": "The community is discussing various topics including Sodex and SosoValue. Some users are experiencing issues with the Soso holder verification process, while others are inquiring about the requirements for certain roles. The mood is generally lighthearted and conversational, with many users chatting about their daily lives and interests. Several users are also discussing the SosoValue season and when it will end.",
+        "questions": [
+            "What is the current status of the Soso holder verification process and how can users resolve any issues they are experiencing?",
+            "What are the requirements for earning certain roles or rewards within the Sodex community, and how can users achieve these goals?",
+            "When will the SosoValue season come to an end, and what can users expect in terms of rewards or outcomes?"
+        ]
     }
 }

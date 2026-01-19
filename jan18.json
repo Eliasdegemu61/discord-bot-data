@@ -2,7 +2,7 @@
     "metadata": {
         "target_date": "jan18",
         "timezone": "UTC+3",
-        "extracted_at": "2026-01-19T07:42:59.160769+00:00"
+        "extracted_at": "2026-01-19T07:46:14.631952+00:00"
     },
     "vitals": {
         "total_messages": 7180,
@@ -85,11 +85,11 @@
     "ai_analysis": {
         "summary_paragraph": "",
         "top_3_questions": [],
-        "summary": "The provided logs appear to be a collection of chat conversations from a Discord server or similar platform, with discussions ranging from casual greetings and introductions to more focused topics such as cryptocurrency, blockchain projects, and airdrop announcements. Members seem to be engaging in light-hearted banter, sharing experiences, and speculating about future developments within the community. The conversations suggest a diverse and active community, with participants coming from different locations around the world, including India, Nigeria, and other countries.",
+        "summary": "The community is enthusiastic about Sodex and SosoValue, with users discussing their experiences, points, and expectations. Some users are patiently waiting for rewards, while others are excited about the potential for growth and mooning. There is a sense of camaraderie, with users sharing laughs, motiviations, and words of encouragement. Concerns about scam links and account security are also being addressed.",
         "questions": [
-            "What is the current status of the Sodex testnet and its rewards?",
-            "How do I participate in or get updates on the Soso and Sosovalue projects?",
-            "Are there any upcoming airdrops or significant events in the community?"
+            "What are the requirements for getting rewards on Sodex and SosoValue?",
+            "How do users increase their points and levels on the platforms?",
+            "What are the expectations for the future development and growth of Sodex and SosoValue?"
         ]
     }
 }

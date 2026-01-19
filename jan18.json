@@ -2,7 +2,7 @@
     "metadata": {
         "target_date": "jan18",
         "timezone": "UTC+3",
-        "extracted_at": "2026-01-19T07:12:48.831789+00:00"
+        "extracted_at": "2026-01-19T07:22:18.795461+00:00"
     },
     "vitals": {
         "total_messages": 7180,
@@ -83,14 +83,15 @@
         }
     ],
     "ai_analysis": {
-        "summary_paragraph": "The Discord logs appear to be from a community related to the SoSo (Sosovalue) and Sodex projects, with discussions on various topics such as testnet participation, rewards, levels, and rankings. Members also engage in casual conversations, sharing personal experiences, and joking around.",
+        "summary_paragraph": "Community members are actively engaging with each other, discussing various topics such as their experiences with Sodex and SosoValue, their points and levels, and their expectations for future rewards. Some members are also sharing their personal stories and joking with each other, creating a lighthearted atmosphere. However, there are also concerns about potential scams and the need for caution when interacting with links and profiles. The community is diverse, with members from different countries and backgrounds, and they are enthusiastic about the project and its potential for growth and rewards.",
         "top_3_questions": [
-            "How do I get roles in the SoSo community?",
-            "What is the difference between SoSo and Sodex?",
-            "How do I participate in the testnet?",
-            "What are the requirements for level 25?",
-            "Is the deposit to Sodex still available?",
-            "How do I understand the verification system to dictate bots farming?"
+            "How do I get roles in Sodex?",
+            "What is the relationship between Soso and SSI tokens?",
+            "When will the affiliate reward system be implemented?",
+            "How can I participate in the Sodex testnet and earn points?",
+            "What are the requirements for claiming rewards in Sodex?",
+            "How can I stay safe and avoid scams in the community?",
+            "What are the expectations for the future growth and development of SosoValue and Sodex?"
         ]
     }
 }

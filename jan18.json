@@ -1,0 +1,46 @@
+{
+    "metadata": {
+        "report_name": "jan18.json",
+        "generated_at": "2026-01-19T06:33:52.961389+00:00"
+    },
+    "vitals": {
+        "total_messages": 4505,
+        "active_users_count": 83,
+        "gm_count": 50
+    },
+    "hourly_activity": {
+        "02:00": 5,
+        "03:00": 20,
+        "04:00": 35,
+        "05:00": 130,
+        "06:00": 95,
+        "07:00": 145,
+        "08:00": 115,
+        "09:00": 250,
+        "10:00": 380,
+        "11:00": 660,
+        "12:00": 415,
+        "13:00": 695,
+        "14:00": 255,
+        "15:00": 50,
+        "16:00": 170,
+        "17:00": 245,
+        "18:00": 260,
+        "19:00": 315,
+        "20:00": 175,
+        "21:00": 15,
+        "22:00": 35,
+        "23:00": 40
+    },
+    "top_moderators": [],
+    "ai_analysis": {
+        "summary_paragraph": "The Discord logs primarily consist of casual conversations and discussions among community members, with some users inquiring about the SosoValue and SSI projects, including the role of holders and requirements to obtain the 'Holder' role. Some users also share their experiences and strategies related to trading, with a few discussing the recent Bitcoin dip and their reactions to it. Moderators remind users to follow community guidelines and keep the chat focused on relevant topics.",
+        "top_3_questions": [
+            "What are the requirements to get the Soso Holder role?",
+            "How many tokens do I need to hold to become a holder?",
+            "What is the best leverage to use when trading futures?",
+            "Is it a good time to open a position after the Bitcoin dip?",
+            "How do I participate in the Sodex Testnet airdrop rewards?"
+        ]
+    }
+}

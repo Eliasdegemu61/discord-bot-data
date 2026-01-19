@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "target_date": "jan10",
+        "timezone": "UTC+3",
+        "extracted_at": "2026-01-19T09:00:46.789644+00:00"
+    },
+    "vitals": {
+        "total_messages": 867,
+        "active_users_count": 144,
+        "gm_count": 133
+    },
+    "hourly_activity": {
+        "00:00": 9,
+        "01:00": 21,
+        "02:00": 15,
+        "03:00": 240,
+        "04:00": 121,
+        "05:00": 5,
+        "06:00": 12,
+        "07:00": 17,
+        "08:00": 20,
+        "09:00": 27,
+        "10:00": 13,
+        "11:00": 12,
+        "12:00": 15,
+        "13:00": 1,
+        "14:00": 11,
+        "15:00": 44,
+        "16:00": 156,
+        "17:00": 54,
+        "18:00": 9,
+        "19:00": 16,
+        "20:00": 8,
+        "21:00": 13,
+        "22:00": 13,
+        "23:00": 15
+    },
+    "top_moderators": [
+        {
+            "name": "lutzs120",
+            "messages": 27
+        },
+        {
+            "name": "nanee70092",
+            "messages": 5
+        }
+    ],
+    "top_chatters": [
+        {
+            "name": "nisar_khisrow",
+            "messages": 214
+        },
+        {
+            "name": "hamzaking55",
+            "messages": 193
+        },
+        {
+            "name": "nguyen_hoang_long",
+            "messages": 28
+        },
+        {
+            "name": "lutzs120",
+            "messages": 27
+        },
+        {
+            "name": "kerim185",
+            "messages": 22
+        },
+        {
+            "name": "cryptohunter0683",
+            "messages": 20
+        },
+        {
+            "name": "real_xc",
+            "messages": 18
+        },
+        {
+            "name": "ashik1x2x3x3",
+            "messages": 13
+        },
+        {
+            "name": "mickmite.",
+            "messages": 12
+        },
+        {
+            "name": "jema2005._34527",
+            "messages": 12
+        }
+    ],
+    "ai_analysis": {
+        "summary_paragraph": "",
+        "top_3_questions": [],
+        "summary": "The community is actively discussing Sodex and SosoValue, with many users seeking clarification on roles, airdrops, and rewards. There is a high level of engagement, with users sharing their experiences and asking questions about the project's plans and features. Some users are reporting issues with role assignments and wallet connections, while others are discussing the potential for rewards and incentives. The community is also on high alert for scammers and fake bots, with warnings and reminders to stay vigilant and follow security protocols.",
+        "questions": [
+            "What are the criteria for eligibility for the airdrop, and how can users get assigned the Sodex and Soso holder roles?",
+            "How do the Sodex volume and SoSoValue seasons interact, and will trading on Sodex impact rewards on SosoValue Season 3?",
+            "Are there any plans to allow the transfer of USDT to traders' wallets, and what is the current status of the mainnet and its rewards allocation?"
+        ]
+    }
+}

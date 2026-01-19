@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "target_date": "jan13",
+        "timezone": "UTC+3",
+        "extracted_at": "2026-01-19T08:59:07.224507+00:00"
+    },
+    "vitals": {
+        "total_messages": 352,
+        "active_users_count": 148,
+        "gm_count": 140
+    },
+    "hourly_activity": {
+        "00:00": 10,
+        "01:00": 13,
+        "02:00": 8,
+        "03:00": 3,
+        "04:00": 2,
+        "05:00": 4,
+        "06:00": 9,
+        "07:00": 11,
+        "08:00": 18,
+        "09:00": 15,
+        "10:00": 15,
+        "11:00": 40,
+        "12:00": 20,
+        "13:00": 23,
+        "14:00": 9,
+        "15:00": 20,
+        "16:00": 32,
+        "17:00": 29,
+        "18:00": 15,
+        "19:00": 18,
+        "20:00": 17,
+        "21:00": 8,
+        "22:00": 5,
+        "23:00": 8
+    },
+    "top_moderators": [
+        {
+            "name": "nanee70092",
+            "messages": 12
+        },
+        {
+            "name": "lutzs120",
+            "messages": 6
+        },
+        {
+            "name": "vigo06879",
+            "messages": 1
+        }
+    ],
+    "top_chatters": [
+        {
+            "name": "kerim185",
+            "messages": 28
+        },
+        {
+            "name": "eemree07",
+            "messages": 17
+        },
+        {
+            "name": "pvcuong90",
+            "messages": 15
+        },
+        {
+            "name": "nanee70092",
+            "messages": 12
+        },
+        {
+            "name": "dicki_d",
+            "messages": 12
+        },
+        {
+            "name": "mickmite.",
+            "messages": 8
+        },
+        {
+            "name": "zawmoe5563",
+            "messages": 8
+        },
+        {
+            "name": "hassan_omehi",
+            "messages": 8
+        },
+        {
+            "name": "blackkmonarch",
+            "messages": 7
+        },
+        {
+            "name": "metorah36",
+            "messages": 6
+        }
+    ],
+    "ai_analysis": {
+        "summary_paragraph": "",
+        "top_3_questions": [],
+        "summary": "The community is eagerly discussing the Sodex and SosoValue projects, with many users inquiring about the S2 campaign, role assignments, and the difference between various EXP types. Some users are reporting issues with linking their Discord accounts, verifying staking SSI tokens, and accessing certain channels. Scam links are also a major concern, with warnings from moderators to avoid clicking on suspicious links. Many users are excited about the project's potential and are looking forward to the mainnet launch and airdrop.",
+        "questions": [
+            "What is the exact date for the S2 campaign ending and the mainnet launch?",
+            "How can users get the Sodex Users role, and what are the requirements for it?",
+            "What is the difference between the total, aggregate EXP, and affiliate EXP in the Sodex project?"
+        ]
+    }
+}

@@ -2,7 +2,7 @@
     "metadata": {
         "target_date": "jan18",
         "timezone": "UTC+3",
-        "extracted_at": "2026-01-19T07:38:33.420635+00:00"
+        "extracted_at": "2026-01-19T07:42:59.160769+00:00"
     },
     "vitals": {
         "total_messages": 7180,
@@ -83,33 +83,13 @@
         }
     ],
     "ai_analysis": {
-        "summary_paragraph": {
-            "date": "jan18",
-            "logs": "various conversations among users on the Sodex platform",
-            "key_topics": [
-                "Sodex",
-                "SoSo",
-                "testnet",
-                "rewards",
-                "KYC",
-                "levels",
-                "ranks"
-            ],
-            "user_sentiment": "mostly positive"
-        },
-        "top_3_questions": [
-            {
-                "question": "What is the primary topic of conversation among users on the Sodex platform?",
-                "answer": "Sodex, SoSo, and related topics"
-            },
-            {
-                "question": "What is the overall sentiment of users on the Sodex platform?",
-                "answer": "Mostly positive"
-            },
-            {
-                "question": "What are some of the key topics discussed by users on the Sodex platform?",
-                "answer": "Testnet, rewards, KYC, levels, ranks, and more"
-            }
+        "summary_paragraph": "",
+        "top_3_questions": [],
+        "summary": "The provided logs appear to be a collection of chat conversations from a Discord server or similar platform, with discussions ranging from casual greetings and introductions to more focused topics such as cryptocurrency, blockchain projects, and airdrop announcements. Members seem to be engaging in light-hearted banter, sharing experiences, and speculating about future developments within the community. The conversations suggest a diverse and active community, with participants coming from different locations around the world, including India, Nigeria, and other countries.",
+        "questions": [
+            "What is the current status of the Sodex testnet and its rewards?",
+            "How do I participate in or get updates on the Soso and Sosovalue projects?",
+            "Are there any upcoming airdrops or significant events in the community?"
         ]
     }
 }

@@ -2,10 +2,7 @@
     "metadata": {
         "target_date": "jan18",
         "timezone": "UTC+3",
-        "range": {
-            "start": "2026-01-18T00:00:00+03:00",
-            "end": "2026-01-18T23:59:59+03:00"
-        }
+        "extracted_at": "2026-01-19T07:12:48.831789+00:00"
     },
     "vitals": {
         "total_messages": 7180,
@@ -37,13 +34,63 @@
         "22:00": 315,
         "23:00": 175
     },
-    "top_moderators": [],
+    "top_moderators": [
+        {
+            "name": "nanee70092",
+            "messages": 10
+        }
+    ],
+    "top_chatters": [
+        {
+            "name": "micheal159357",
+            "messages": 1070
+        },
+        {
+            "name": "willystunner",
+            "messages": 720
+        },
+        {
+            "name": "huzaim_web3",
+            "messages": 565
+        },
+        {
+            "name": "jema2005._34527",
+            "messages": 530
+        },
+        {
+            "name": "elohorcaleb",
+            "messages": 495
+        },
+        {
+            "name": "cryptogeof",
+            "messages": 430
+        },
+        {
+            "name": "tunchieb",
+            "messages": 395
+        },
+        {
+            "name": "simple_39219",
+            "messages": 265
+        },
+        {
+            "name": "tammyab_",
+            "messages": 220
+        },
+        {
+            "name": "hkfrayoo",
+            "messages": 215
+        }
+    ],
     "ai_analysis": {
-        "summary_paragraph": "The provided logs appear to be a collection of chats from a social media platform or online community, seemingly focused on topics like cryptocurrency, web3 projects, and social interactions among members. Discussions range from casual conversations about daily life, religious beliefs, and personal experiences to more specific topics like the Sodex testnet, Sosovalue, and expectations around airdrops or token prices. The tone varies between humorous, supportive, and inquisitive, with members engaging in banter, sharing information, and seeking advice or clarification on various subjects.",
+        "summary_paragraph": "The Discord logs appear to be from a community related to the SoSo (Sosovalue) and Sodex projects, with discussions on various topics such as testnet participation, rewards, levels, and rankings. Members also engage in casual conversations, sharing personal experiences, and joking around.",
         "top_3_questions": [
-            "What is the primary focus of the community based on the provided logs?",
-            "How do members interact with each other in terms of support and camaraderie?",
-            "What specific projects or topics, such as Sodex or Sosovalue, are frequently discussed in the community?"
+            "How do I get roles in the SoSo community?",
+            "What is the difference between SoSo and Sodex?",
+            "How do I participate in the testnet?",
+            "What are the requirements for level 25?",
+            "Is the deposit to Sodex still available?",
+            "How do I understand the verification system to dictate bots farming?"
         ]
     }
 }

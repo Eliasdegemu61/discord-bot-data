@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "target_date": "jan4",
+        "timezone": "UTC+3",
+        "extracted_at": "2026-01-19T14:42:59.080477+00:00"
+    },
+    "vitals": {
+        "total_messages": 312,
+        "active_users_count": 89,
+        "gm_count": 64
+    },
+    "hourly_activity": {
+        "00:00": 12,
+        "01:00": 9,
+        "02:00": 9,
+        "03:00": 5,
+        "04:00": 3,
+        "05:00": 5,
+        "06:00": 3,
+        "07:00": 11,
+        "08:00": 6,
+        "09:00": 1,
+        "10:00": 5,
+        "11:00": 6,
+        "12:00": 20,
+        "13:00": 21,
+        "14:00": 81,
+        "15:00": 28,
+        "16:00": 7,
+        "17:00": 19,
+        "18:00": 18,
+        "19:00": 18,
+        "20:00": 12,
+        "21:00": 2,
+        "22:00": 5,
+        "23:00": 6
+    },
+    "top_moderators": [
+        {
+            "name": "lutzs120",
+            "messages": 13
+        },
+        {
+            "name": "nanee70092",
+            "messages": 2
+        }
+    ],
+    "top_chatters": [
+        {
+            "name": "ashik1x2x3x3",
+            "messages": 55
+        },
+        {
+            "name": "midrisc8",
+            "messages": 29
+        },
+        {
+            "name": "mickmite.",
+            "messages": 16
+        },
+        {
+            "name": "halirharun",
+            "messages": 14
+        },
+        {
+            "name": "lutzs120",
+            "messages": 13
+        },
+        {
+            "name": "masterstore_12",
+            "messages": 12
+        },
+        {
+            "name": "difalter_lk",
+            "messages": 11
+        },
+        {
+            "name": "itzremwrld",
+            "messages": 10
+        },
+        {
+            "name": "tsunami_87631",
+            "messages": 8
+        },
+        {
+            "name": "joc__wrld",
+            "messages": 6
+        }
+    ],
+    "ai_analysis": {
+        "summary_paragraph": "",
+        "top_3_questions": [],
+        "summary": "The community is actively discussing Sodex and SosoValue, with many users inquiring about the eligibility criteria for SosoValue's Season 2. Some users are seeking clarification on whether creators on SosoValue get paid, while others are asking about the allocation of the 30M SosoValue. There are also concerns about potential scams and the importance of being cautious when sharing personal information. Additionally, users are inquiring about the Sodex testnet and how to participate in it, as well as the rewards for Discord users with the maximum number of roles.",
+        "questions": [
+            "Will creators on SosoValue get paid, and if so, how will it affect allocation?",
+            "What are the eligibility criteria for SosoValue's Season 2, and how will the 30M SosoValue be allocated?",
+            "How can users protect themselves from potential scams and stay safe while participating in the Sodex and SosoValue communities?"
+        ]
+    }
+}

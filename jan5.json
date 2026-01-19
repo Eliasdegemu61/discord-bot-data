@@ -2,7 +2,7 @@
     "metadata": {
         "target_date": "jan5",
         "timezone": "UTC+3",
-        "extracted_at": "2026-01-19T09:05:01.095711+00:00"
+        "extracted_at": "2026-01-19T14:37:57.538401+00:00"
     },
     "vitals": {
         "total_messages": 402,
@@ -92,6 +92,12 @@
     ],
     "ai_analysis": {
         "summary_paragraph": "",
-        "top_3_questions": []
+        "top_3_questions": [],
+        "summary": "The community is actively discussing Sodex and SosoValue, with many users inquiring about the snapshot, testnet, and rewards. Some users are experiencing issues with wallet connections and withdrawals, while others are seeking clarification on the criteria for the airdrop. The mood is generally inquisitive and cautious, with users being advised to be careful of scams and to await official updates from the team.",
+        "questions": [
+            "What is the expected timeline for the Sodex snapshot and Season 2 rewards?",
+            "How can users ensure their wallet is properly connected to their Sodex account and what are the supported wallets for deposit?",
+            "What are the benefits of earning points in the Testnet Phase 2 and how will they be allocated during the reward distribution?"
+        ]
     }
 }

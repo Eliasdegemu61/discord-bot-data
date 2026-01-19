@@ -2,7 +2,7 @@
     "metadata": {
         "target_date": "jan18",
         "timezone": "UTC+3",
-        "extracted_at": "2026-01-19T07:31:05.674936+00:00"
+        "extracted_at": "2026-01-19T07:34:40.907551+00:00"
     },
     "vitals": {
         "total_messages": 7180,
@@ -84,7 +84,6 @@
     ],
     "ai_analysis": {
         "summary_paragraph": "",
-        "top_3_questions": [],
-        "error": "AI analysis failed: Error code: 400 - {'error': {'message': \"'messages' must contain the word 'json' in some form, to use 'response_format' of type 'json_object'.\", 'type': 'invalid_request_error'}}"
+        "top_3_questions": []
     }
 }

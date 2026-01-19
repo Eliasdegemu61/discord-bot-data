@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "target_date": "jan6",
+        "timezone": "UTC+3",
+        "extracted_at": "2026-01-19T09:04:16.380899+00:00"
+    },
+    "vitals": {
+        "total_messages": 365,
+        "active_users_count": 110,
+        "gm_count": 93
+    },
+    "hourly_activity": {
+        "00:00": 18,
+        "01:00": 5,
+        "02:00": 2,
+        "03:00": 6,
+        "04:00": 2,
+        "05:00": 5,
+        "06:00": 2,
+        "07:00": 12,
+        "08:00": 10,
+        "09:00": 10,
+        "10:00": 20,
+        "11:00": 14,
+        "12:00": 14,
+        "13:00": 16,
+        "14:00": 9,
+        "15:00": 17,
+        "16:00": 33,
+        "17:00": 28,
+        "18:00": 15,
+        "19:00": 11,
+        "20:00": 31,
+        "21:00": 16,
+        "22:00": 46,
+        "23:00": 23
+    },
+    "top_moderators": [
+        {
+            "name": "nanee70092",
+            "messages": 9
+        },
+        {
+            "name": "lutzs120",
+            "messages": 7
+        }
+    ],
+    "top_chatters": [
+        {
+            "name": "ashik1x2x3x3",
+            "messages": 42
+        },
+        {
+            "name": "mrspxce.eth",
+            "messages": 25
+        },
+        {
+            "name": "sb_hustler",
+            "messages": 23
+        },
+        {
+            "name": "mickmite.",
+            "messages": 22
+        },
+        {
+            "name": "kemisola2032",
+            "messages": 10
+        },
+        {
+            "name": "nanee70092",
+            "messages": 9
+        },
+        {
+            "name": "metorah36",
+            "messages": 9
+        },
+        {
+            "name": "mineancy",
+            "messages": 8
+        },
+        {
+            "name": "beben0555_05646",
+            "messages": 8
+        },
+        {
+            "name": "s021q",
+            "messages": 8
+        }
+    ],
+    "ai_analysis": {
+        "summary_paragraph": "",
+        "top_3_questions": [],
+        "summary": "The community is actively engaged, discussing various aspects of Sodex and SosoValue, including deposit guidelines, project participation, and role grinding. Users are seeking clarification on reward allocations, testnet participation, and mainnet activities. Overall, the mood is positive, with users expressing enthusiasm for the projects and appreciation for assistance from moderators.",
+        "questions": [
+            "What are the specific requirements for reward allocations in Sodex and SosoValue?",
+            "How do users participate in testnet and mainnet activities to maximize their rewards?",
+            "What are the guidelines for depositing funds to ensure secure and instant crediting in Sodex?"
+        ]
+    }
+}

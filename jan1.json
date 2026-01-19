@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "target_date": "jan1",
+        "timezone": "UTC+3",
+        "extracted_at": "2026-01-19T14:45:37.302129+00:00"
+    },
+    "vitals": {
+        "total_messages": 204,
+        "active_users_count": 90,
+        "gm_count": 73
+    },
+    "hourly_activity": {
+        "00:00": 2,
+        "01:00": 1,
+        "02:00": 9,
+        "03:00": 6,
+        "04:00": 4,
+        "05:00": 2,
+        "06:00": 5,
+        "07:00": 2,
+        "08:00": 5,
+        "09:00": 10,
+        "10:00": 3,
+        "11:00": 3,
+        "12:00": 6,
+        "13:00": 7,
+        "14:00": 9,
+        "15:00": 16,
+        "16:00": 21,
+        "17:00": 18,
+        "18:00": 15,
+        "19:00": 12,
+        "20:00": 36,
+        "21:00": 6,
+        "22:00": 3,
+        "23:00": 3
+    },
+    "top_moderators": [
+        {
+            "name": "lutzs120",
+            "messages": 10
+        },
+        {
+            "name": "nanee70092",
+            "messages": 4
+        }
+    ],
+    "top_chatters": [
+        {
+            "name": "electricdad_",
+            "messages": 21
+        },
+        {
+            "name": "real_xc",
+            "messages": 16
+        },
+        {
+            "name": "lutzs120",
+            "messages": 10
+        },
+        {
+            "name": "midrisc8",
+            "messages": 6
+        },
+        {
+            "name": "elifkamzo",
+            "messages": 6
+        },
+        {
+            "name": "takkimitti",
+            "messages": 6
+        },
+        {
+            "name": "masterstore_12",
+            "messages": 6
+        },
+        {
+            "name": "james0079172",
+            "messages": 5
+        },
+        {
+            "name": "flokigan_7",
+            "messages": 5
+        },
+        {
+            "name": "anderson87q82",
+            "messages": 4
+        }
+    ],
+    "ai_analysis": {
+        "summary_paragraph": "",
+        "top_3_questions": []
+    }
+}

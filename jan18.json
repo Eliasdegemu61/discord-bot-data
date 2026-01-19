@@ -2,94 +2,95 @@
     "metadata": {
         "target_date": "jan18",
         "timezone": "UTC+3",
-        "extracted_at": "2026-01-19T07:46:14.631952+00:00"
+        "extracted_at": "2026-01-19T07:52:16.228867+00:00"
     },
     "vitals": {
-        "total_messages": 7180,
-        "active_users_count": 86,
-        "gm_count": 40
+        "total_messages": 1580,
+        "active_users_count": 162,
+        "gm_count": 140
     },
     "hourly_activity": {
-        "00:00": 1720,
-        "01:00": 45,
-        "02:00": 10,
-        "04:00": 170,
-        "05:00": 450,
-        "06:00": 180,
-        "07:00": 185,
-        "08:00": 215,
-        "09:00": 75,
-        "10:00": 145,
-        "11:00": 115,
-        "12:00": 250,
-        "13:00": 380,
-        "14:00": 660,
-        "15:00": 415,
-        "16:00": 695,
-        "17:00": 255,
-        "18:00": 50,
-        "19:00": 170,
-        "20:00": 245,
-        "21:00": 260,
-        "22:00": 315,
-        "23:00": 175
+        "00:00": 352,
+        "01:00": 15,
+        "02:00": 2,
+        "03:00": 1,
+        "04:00": 38,
+        "05:00": 96,
+        "06:00": 42,
+        "07:00": 44,
+        "08:00": 54,
+        "09:00": 23,
+        "10:00": 34,
+        "11:00": 30,
+        "12:00": 55,
+        "13:00": 84,
+        "14:00": 138,
+        "15:00": 89,
+        "16:00": 154,
+        "17:00": 58,
+        "18:00": 14,
+        "19:00": 42,
+        "20:00": 54,
+        "21:00": 58,
+        "22:00": 65,
+        "23:00": 38
     },
     "top_moderators": [
         {
             "name": "nanee70092",
-            "messages": 10
+            "messages": 3
         }
     ],
     "top_chatters": [
         {
             "name": "micheal159357",
-            "messages": 1070
+            "messages": 216
         },
         {
             "name": "willystunner",
-            "messages": 720
+            "messages": 144
         },
         {
             "name": "huzaim_web3",
-            "messages": 565
+            "messages": 114
         },
         {
             "name": "jema2005._34527",
-            "messages": 530
+            "messages": 106
         },
         {
             "name": "elohorcaleb",
-            "messages": 495
+            "messages": 99
         },
         {
             "name": "cryptogeof",
-            "messages": 430
+            "messages": 86
         },
         {
             "name": "tunchieb",
-            "messages": 395
+            "messages": 80
         },
         {
             "name": "simple_39219",
-            "messages": 265
+            "messages": 53
         },
         {
             "name": "tammyab_",
-            "messages": 220
+            "messages": 44
         },
         {
             "name": "hkfrayoo",
-            "messages": 215
+            "messages": 43
         }
     ],
     "ai_analysis": {
         "summary_paragraph": "",
         "top_3_questions": [],
-        "summary": "The community is enthusiastic about Sodex and SosoValue, with users discussing their experiences, points, and expectations. Some users are patiently waiting for rewards, while others are excited about the potential for growth and mooning. There is a sense of camaraderie, with users sharing laughs, motiviations, and words of encouragement. Concerns about scam links and account security are also being addressed.",
+        "summary": "The community is discussing their experiences with Sodex and SosoValue, with some users sharing their points and levels. There is a sense of excitement and anticipation for the potential rewards and airdrops. Some users are also discussing their strategies for farming and grinding, while others are sharing their thoughts on the project's potential and the importance of patience and perseverance.",
         "questions": [
-            "What are the requirements for getting rewards on Sodex and SosoValue?",
-            "How do users increase their points and levels on the platforms?",
-            "What are the expectations for the future development and growth of Sodex and SosoValue?"
+            "What are the requirements to reach level 25 on Sodex?",
+            "How does the verification system work to prevent bots from farming?",
+            "Will the deposit to Sodex still be available after the campaign SSI ends?"
         ]
     }
 }

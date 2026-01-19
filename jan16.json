@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "target_date": "jan16",
+        "timezone": "UTC+3",
+        "extracted_at": "2026-01-19T07:56:30.153565+00:00"
+    },
+    "vitals": {
+        "total_messages": 2458,
+        "active_users_count": 247,
+        "gm_count": 220
+    },
+    "hourly_activity": {
+        "00:00": 206,
+        "01:00": 263,
+        "02:00": 68,
+        "03:00": 25,
+        "04:00": 34,
+        "05:00": 42,
+        "06:00": 37,
+        "07:00": 25,
+        "08:00": 66,
+        "09:00": 96,
+        "10:00": 75,
+        "11:00": 188,
+        "12:00": 90,
+        "13:00": 200,
+        "14:00": 100,
+        "15:00": 52,
+        "16:00": 93,
+        "17:00": 100,
+        "18:00": 135,
+        "19:00": 283,
+        "20:00": 103,
+        "21:00": 84,
+        "22:00": 47,
+        "23:00": 46
+    },
+    "top_moderators": [
+        {
+            "name": "lutzs120",
+            "messages": 10
+        },
+        {
+            "name": "nanee70092",
+            "messages": 3
+        }
+    ],
+    "top_chatters": [
+        {
+            "name": "mrspalm75",
+            "messages": 222
+        },
+        {
+            "name": "stephenkay.",
+            "messages": 211
+        },
+        {
+            "name": "scomnet",
+            "messages": 156
+        },
+        {
+            "name": "hopechael",
+            "messages": 132
+        },
+        {
+            "name": "ayontop",
+            "messages": 113
+        },
+        {
+            "name": "babxee",
+            "messages": 100
+        },
+        {
+            "name": "roseana0",
+            "messages": 92
+        },
+        {
+            "name": "paschalnaddy",
+            "messages": 74
+        },
+        {
+            "name": "willystunner",
+            "messages": 67
+        },
+        {
+            "name": "impookieeee",
+            "messages": 58
+        }
+    ],
+    "ai_analysis": {
+        "summary_paragraph": "",
+        "top_3_questions": [],
+        "summary": "The community is actively discussing Sodex and SosoValue, with users sharing their experiences and asking questions about the projects. Some users are inquiring about how to join Sodex, while others are discussing the points system and potential rewards. There is a sense of excitement and anticipation as users wait for updates on the projects' development.",
+        "questions": [
+            "What are the requirements to join Sodex, and how can users get started?",
+            "How do the points systems in Sodex and SosoValue work, and what are the potential rewards for users?",
+            "What are the next steps for Sodex and SosoValue, and when can users expect to see new developments or updates?"
+        ]
+    }
+}

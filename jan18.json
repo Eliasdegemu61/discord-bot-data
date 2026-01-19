@@ -2,96 +2,18 @@
     "metadata": {
         "target_date": "jan18",
         "timezone": "UTC+3",
-        "extracted_at": "2026-01-19T07:22:18.795461+00:00"
+        "extracted_at": "2026-01-19T07:24:52.015788+00:00"
     },
     "vitals": {
-        "total_messages": 7180,
-        "active_users_count": 86,
-        "gm_count": 40
+        "total_messages": 0,
+        "active_users_count": 0,
+        "gm_count": 0
     },
-    "hourly_activity": {
-        "00:00": 1720,
-        "01:00": 45,
-        "02:00": 10,
-        "04:00": 170,
-        "05:00": 450,
-        "06:00": 180,
-        "07:00": 185,
-        "08:00": 215,
-        "09:00": 75,
-        "10:00": 145,
-        "11:00": 115,
-        "12:00": 250,
-        "13:00": 380,
-        "14:00": 660,
-        "15:00": 415,
-        "16:00": 695,
-        "17:00": 255,
-        "18:00": 50,
-        "19:00": 170,
-        "20:00": 245,
-        "21:00": 260,
-        "22:00": 315,
-        "23:00": 175
-    },
-    "top_moderators": [
-        {
-            "name": "nanee70092",
-            "messages": 10
-        }
-    ],
-    "top_chatters": [
-        {
-            "name": "micheal159357",
-            "messages": 1070
-        },
-        {
-            "name": "willystunner",
-            "messages": 720
-        },
-        {
-            "name": "huzaim_web3",
-            "messages": 565
-        },
-        {
-            "name": "jema2005._34527",
-            "messages": 530
-        },
-        {
-            "name": "elohorcaleb",
-            "messages": 495
-        },
-        {
-            "name": "cryptogeof",
-            "messages": 430
-        },
-        {
-            "name": "tunchieb",
-            "messages": 395
-        },
-        {
-            "name": "simple_39219",
-            "messages": 265
-        },
-        {
-            "name": "tammyab_",
-            "messages": 220
-        },
-        {
-            "name": "hkfrayoo",
-            "messages": 215
-        }
-    ],
+    "hourly_activity": {},
+    "top_moderators": [],
+    "top_chatters": [],
     "ai_analysis": {
-        "summary_paragraph": "Community members are actively engaging with each other, discussing various topics such as their experiences with Sodex and SosoValue, their points and levels, and their expectations for future rewards. Some members are also sharing their personal stories and joking with each other, creating a lighthearted atmosphere. However, there are also concerns about potential scams and the need for caution when interacting with links and profiles. The community is diverse, with members from different countries and backgrounds, and they are enthusiastic about the project and its potential for growth and rewards.",
-        "top_3_questions": [
-            "How do I get roles in Sodex?",
-            "What is the relationship between Soso and SSI tokens?",
-            "When will the affiliate reward system be implemented?",
-            "How can I participate in the Sodex testnet and earn points?",
-            "What are the requirements for claiming rewards in Sodex?",
-            "How can I stay safe and avoid scams in the community?",
-            "What are the expectations for the future growth and development of SosoValue and Sodex?"
-        ]
+        "summary_paragraph": "No community data available for this specific date.",
+        "top_3_questions": []
     }
 }

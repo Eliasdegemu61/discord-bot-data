@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "target_date": "jan15",
+        "timezone": "UTC+3",
+        "extracted_at": "2026-01-19T08:00:26.138616+00:00"
+    },
+    "vitals": {
+        "total_messages": 3912,
+        "active_users_count": 389,
+        "gm_count": 310
+    },
+    "hourly_activity": {
+        "00:00": 96,
+        "01:00": 305,
+        "02:00": 267,
+        "03:00": 47,
+        "04:00": 109,
+        "05:00": 109,
+        "06:00": 32,
+        "07:00": 27,
+        "08:00": 53,
+        "09:00": 227,
+        "10:00": 192,
+        "11:00": 181,
+        "12:00": 57,
+        "13:00": 187,
+        "14:00": 181,
+        "15:00": 108,
+        "16:00": 82,
+        "17:00": 376,
+        "18:00": 299,
+        "19:00": 65,
+        "20:00": 88,
+        "21:00": 148,
+        "22:00": 200,
+        "23:00": 476
+    },
+    "top_moderators": [
+        {
+            "name": "lutzs120",
+            "messages": 19
+        },
+        {
+            "name": "nanee70092",
+            "messages": 11
+        }
+    ],
+    "top_chatters": [
+        {
+            "name": "micheal159357",
+            "messages": 818
+        },
+        {
+            "name": "danbello0x",
+            "messages": 312
+        },
+        {
+            "name": "stephenkay.",
+            "messages": 169
+        },
+        {
+            "name": "ayomide.joshua",
+            "messages": 162
+        },
+        {
+            "name": "prince787898",
+            "messages": 158
+        },
+        {
+            "name": "sasha4liff",
+            "messages": 139
+        },
+        {
+            "name": "mrspalm75",
+            "messages": 139
+        },
+        {
+            "name": "loveed2025_33971",
+            "messages": 97
+        },
+        {
+            "name": "willystunner",
+            "messages": 95
+        },
+        {
+            "name": "trishia0579",
+            "messages": 66
+        }
+    ],
+    "ai_analysis": {
+        "summary_paragraph": "",
+        "top_3_questions": [],
+        "summary": "The community is actively discussing Sodex and SosoValue, with many users eager to learn more about the rewards and grind levels. Some users are expressing frustration and fatigue, while others are motivating and encouraging each other to reach higher levels. There are also discussions about referrals, verification, and the potential for a Sybil attack. The overall mood is a mix of excitement, motivation, and frustration.",
+        "questions": [
+            "Will all testers be rewarded, or only those who reach certain milestones?",
+            "How can users protect themselves from potential scams and Sybil attacks?",
+            "What are the specific requirements for earning rewards and advancing through the grind levels in Sodex and SosoValue?"
+        ]
+    }
+}

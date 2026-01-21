@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "target_date": "jan20",
+        "timezone": "UTC+3",
+        "extracted_at": "2026-01-21T01:57:04.802413+00:00"
+    },
+    "vitals": {
+        "total_messages": 440,
+        "active_users_count": 181,
+        "gm_count": 170
+    },
+    "hourly_activity": {
+        "00:00": 9,
+        "01:00": 11,
+        "02:00": 9,
+        "03:00": 5,
+        "04:00": 26,
+        "05:00": 13,
+        "06:00": 23,
+        "07:00": 10,
+        "08:00": 11,
+        "09:00": 16,
+        "10:00": 21,
+        "11:00": 37,
+        "12:00": 16,
+        "13:00": 24,
+        "14:00": 16,
+        "15:00": 31,
+        "16:00": 23,
+        "17:00": 19,
+        "18:00": 38,
+        "19:00": 17,
+        "20:00": 20,
+        "21:00": 8,
+        "22:00": 12,
+        "23:00": 25
+    },
+    "top_moderators": [
+        {
+            "name": "nanee70092",
+            "messages": 3
+        },
+        {
+            "name": "mickmite.",
+            "messages": 1
+        },
+        {
+            "name": "lutzs120",
+            "messages": 1
+        }
+    ],
+    "top_chatters": [
+        {
+            "name": "cryptogeof",
+            "messages": 23
+        },
+        {
+            "name": "micheal159357",
+            "messages": 17
+        },
+        {
+            "name": "cemarikan",
+            "messages": 13
+        },
+        {
+            "name": "jane202",
+            "messages": 11
+        },
+        {
+            "name": "crypto_biggz",
+            "messages": 8
+        },
+        {
+            "name": "janneh2000",
+            "messages": 7
+        },
+        {
+            "name": "ajaykumar7860",
+            "messages": 7
+        },
+        {
+            "name": "itzremwrld",
+            "messages": 7
+        },
+        {
+            "name": "bongddalgi",
+            "messages": 6
+        },
+        {
+            "name": "hossain_bd",
+            "messages": 6
+        }
+    ],
+    "ai_analysis": {
+        "summary_paragraph": "",
+        "top_3_questions": [],
+        "summary": "The community is discussing various aspects of SoDEX and SoSoValue, including testnet points, mainnet code, and the eligibility criteria for SoSoValue. Users are expressing their eagerness to participate in the SoSoValue airdrop and are seeking clarification on the allocation of $SOSO tokens. Some users are also inquiring about the role of researcher and how to earn points on SoDEX. The overall mood is one of anticipation and excitement, with users looking forward to the upcoming developments in the SoDEX ecosystem.",
+        "questions": [
+            "What is the eligibility criteria for SoSoValue and how will it impact the community?",
+            "How can users earn points on SoDEX and what are the criteria for allocation of $SOSO tokens?",
+            "What is the role of researcher in the SoDEX ecosystem and how can users participate in it?"
+        ]
+    }
+}

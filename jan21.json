@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "target_date": "jan21",
+        "timezone": "UTC+3",
+        "extracted_at": "2026-01-21T22:14:33.175430+00:00"
+    },
+    "vitals": {
+        "total_messages": 545,
+        "active_users_count": 224,
+        "gm_count": 209
+    },
+    "hourly_activity": {
+        "00:00": 33,
+        "01:00": 15,
+        "02:00": 11,
+        "03:00": 5,
+        "04:00": 6,
+        "05:00": 10,
+        "06:00": 11,
+        "07:00": 41,
+        "08:00": 17,
+        "09:00": 13,
+        "10:00": 22,
+        "11:00": 31,
+        "12:00": 34,
+        "13:00": 45,
+        "14:00": 31,
+        "15:00": 35,
+        "16:00": 11,
+        "17:00": 37,
+        "18:00": 22,
+        "19:00": 18,
+        "20:00": 38,
+        "21:00": 29,
+        "22:00": 16,
+        "23:00": 14
+    },
+    "top_moderators": [
+        {
+            "name": "mickmite.",
+            "messages": 5
+        },
+        {
+            "name": "vigo06879",
+            "messages": 3
+        },
+        {
+            "name": "nanee70092",
+            "messages": 3
+        }
+    ],
+    "top_chatters": [
+        {
+            "name": "chess6",
+            "messages": 31
+        },
+        {
+            "name": "onix786",
+            "messages": 17
+        },
+        {
+            "name": "derrick8792",
+            "messages": 15
+        },
+        {
+            "name": "impookieeee",
+            "messages": 15
+        },
+        {
+            "name": "cryptogeof",
+            "messages": 14
+        },
+        {
+            "name": "bee_031",
+            "messages": 14
+        },
+        {
+            "name": "janneh2000",
+            "messages": 13
+        },
+        {
+            "name": "loveed2025_33971",
+            "messages": 12
+        },
+        {
+            "name": "jane202",
+            "messages": 10
+        },
+        {
+            "name": "kerim185",
+            "messages": 9
+        }
+    ],
+    "ai_analysis": {
+        "summary_paragraph": "",
+        "top_3_questions": [],
+        "summary": "The community is actively discussing Sodex and SosoValue, with many users seeking clarification on the Real User Incentive Protection Plan and testnet airdrop criteria. There are concerns about the requirements for mainnet participation and the potential impact on contributors who cannot afford to trade. The community is also cautious about potential scams and misinformation, with some users reporting suspicious emails and others advising to wait for official announcements.",
+        "questions": [
+            "What are the specific requirements for the Real User Incentive Protection Plan and how will it affect Sodex testnet airdrop eligibility?",
+            "How can users complete the sybil task and what are the consequences of failing to do so?",
+            "Will mainnet participation be mandatory for Sodex airdrop eligibility, and if so, what are the criteria for participation?"
+        ]
+    }
+}

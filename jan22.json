@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "target_date": "jan22",
+        "timezone": "UTC+3",
+        "extracted_at": "2026-01-23T02:17:14.774398+00:00"
+    },
+    "vitals": {
+        "total_messages": 489,
+        "active_users_count": 151,
+        "gm_count": 144
+    },
+    "hourly_activity": {
+        "00:00": 7,
+        "01:00": 5,
+        "02:00": 6,
+        "03:00": 7,
+        "04:00": 14,
+        "05:00": 22,
+        "06:00": 17,
+        "07:00": 3,
+        "08:00": 10,
+        "09:00": 18,
+        "10:00": 47,
+        "11:00": 65,
+        "12:00": 64,
+        "13:00": 12,
+        "14:00": 40,
+        "15:00": 20,
+        "16:00": 22,
+        "17:00": 14,
+        "18:00": 18,
+        "19:00": 14,
+        "20:00": 12,
+        "21:00": 19,
+        "22:00": 17,
+        "23:00": 16
+    },
+    "top_moderators": [
+        {
+            "name": "nanee70092",
+            "messages": 2
+        },
+        {
+            "name": "mickmite.",
+            "messages": 2
+        }
+    ],
+    "top_chatters": [
+        {
+            "name": "sheylee998",
+            "messages": 86
+        },
+        {
+            "name": "laweel",
+            "messages": 36
+        },
+        {
+            "name": "mapralmawil",
+            "messages": 25
+        },
+        {
+            "name": "chess6",
+            "messages": 21
+        },
+        {
+            "name": "richyrichard22_",
+            "messages": 19
+        },
+        {
+            "name": "julien.14",
+            "messages": 18
+        },
+        {
+            "name": "pvcuong90",
+            "messages": 10
+        },
+        {
+            "name": "simple_39219",
+            "messages": 9
+        },
+        {
+            "name": "hossain_bd",
+            "messages": 8
+        },
+        {
+            "name": "asrorunniam",
+            "messages": 8
+        }
+    ],
+    "ai_analysis": {
+        "summary_paragraph": "",
+        "top_3_questions": [],
+        "summary": "Users are discussing the Sodex and SosoValue projects, with many expressing excitement and anticipation for potential rewards and airdrops. Some users are confused about the difference between testnet and mainnet, and how it affects their eligibility for rewards. Others are sharing their experiences and strategies for earning points and trading on the platforms. The community is active and engaged, with many users supporting and encouraging each other.",
+        "questions": [
+            "What is the criteria for receiving a Sodex airdrop, and how does trading on mainnet affect eligibility?",
+            "How do users earn points on SosoValue, and what are the benefits of reaching different levels?",
+            "Will users who participated in the testnet be rewarded, or is mainnet trading a requirement for receiving rewards?"
+        ]
+    }
+}

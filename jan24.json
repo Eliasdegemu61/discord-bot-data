@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "target_date": "jan24",
+        "timezone": "UTC+3",
+        "extracted_at": "2026-01-24T22:45:48.201595+00:00"
+    },
+    "vitals": {
+        "total_messages": 545,
+        "active_users_count": 176,
+        "gm_count": 169
+    },
+    "hourly_activity": {
+        "00:00": 3,
+        "01:00": 14,
+        "02:00": 2,
+        "03:00": 5,
+        "04:00": 7,
+        "05:00": 9,
+        "06:00": 11,
+        "07:00": 14,
+        "08:00": 22,
+        "09:00": 22,
+        "10:00": 16,
+        "11:00": 38,
+        "12:00": 59,
+        "13:00": 28,
+        "14:00": 29,
+        "15:00": 37,
+        "16:00": 26,
+        "17:00": 94,
+        "18:00": 40,
+        "19:00": 18,
+        "20:00": 8,
+        "21:00": 24,
+        "22:00": 9,
+        "23:00": 10
+    },
+    "top_moderators": [
+        {
+            "name": "mickmite.",
+            "messages": 10
+        },
+        {
+            "name": "nanee70092",
+            "messages": 5
+        },
+        {
+            "name": "lutzs120",
+            "messages": 3
+        }
+    ],
+    "top_chatters": [
+        {
+            "name": "jema2005._34527",
+            "messages": 50
+        },
+        {
+            "name": "geralxy14",
+            "messages": 38
+        },
+        {
+            "name": "handsome9350",
+            "messages": 27
+        },
+        {
+            "name": "babxee",
+            "messages": 17
+        },
+        {
+            "name": "tunchieb",
+            "messages": 15
+        },
+        {
+            "name": "difalter_lk",
+            "messages": 14
+        },
+        {
+            "name": "impookieeee",
+            "messages": 13
+        },
+        {
+            "name": "pvcuong90",
+            "messages": 13
+        },
+        {
+            "name": "conduongxuaemdi",
+            "messages": 12
+        },
+        {
+            "name": "julien.14",
+            "messages": 12
+        }
+    ],
+    "ai_analysis": {
+        "summary_paragraph": "",
+        "top_3_questions": [],
+        "summary": "Users are discussing Sodex and SoSoValue, with many expressing excitement and anticipation for the mainnet airdrop. Some users are seeking clarification on the eligibility criteria and rewards structure, while others are sharing their experiences and offering advice on how to get involved. The community is active and engaged, with many users participating in discussions and seeking to learn more about the project.",
+        "questions": [
+            "What are the specific eligibility criteria for the Sodex mainnet airdrop?",
+            "How will the airdrop rewards be calculated and distributed?",
+            "What role do Discord roles play in the Sodex and SoSoValue ecosystems, and how can users obtain them?"
+        ]
+    }
+}

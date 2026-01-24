@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "target_date": "jan23",
+        "timezone": "UTC+3",
+        "extracted_at": "2026-01-24T00:49:20.606592+00:00"
+    },
+    "vitals": {
+        "total_messages": 469,
+        "active_users_count": 152,
+        "gm_count": 168
+    },
+    "hourly_activity": {
+        "00:00": 23,
+        "01:00": 9,
+        "02:00": 8,
+        "03:00": 15,
+        "04:00": 4,
+        "05:00": 9,
+        "06:00": 24,
+        "07:00": 10,
+        "08:00": 46,
+        "09:00": 30,
+        "10:00": 41,
+        "11:00": 27,
+        "12:00": 17,
+        "13:00": 31,
+        "14:00": 20,
+        "15:00": 18,
+        "16:00": 27,
+        "17:00": 42,
+        "18:00": 15,
+        "19:00": 14,
+        "20:00": 9,
+        "21:00": 10,
+        "22:00": 13,
+        "23:00": 7
+    },
+    "top_moderators": [
+        {
+            "name": "nanee70092",
+            "messages": 4
+        },
+        {
+            "name": "mickmite.",
+            "messages": 1
+        }
+    ],
+    "top_chatters": [
+        {
+            "name": "chess6",
+            "messages": 36
+        },
+        {
+            "name": "pvcuong90",
+            "messages": 23
+        },
+        {
+            "name": "paschalj",
+            "messages": 21
+        },
+        {
+            "name": "derrick8792",
+            "messages": 17
+        },
+        {
+            "name": "sheylee998",
+            "messages": 16
+        },
+        {
+            "name": "jema2005._34527",
+            "messages": 14
+        },
+        {
+            "name": "hossain_bd",
+            "messages": 13
+        },
+        {
+            "name": "babxee",
+            "messages": 13
+        },
+        {
+            "name": "midrisc8",
+            "messages": 11
+        },
+        {
+            "name": "cryptogeof",
+            "messages": 11
+        }
+    ],
+    "ai_analysis": {
+        "summary_paragraph": "",
+        "top_3_questions": [],
+        "summary": "Many users are discussing their experiences with Sodex and SosoValue, with some sharing their point totals and others asking about the criteria for the airdrop. There's a sense of excitement and anticipation for the Sodex testnet and mainnet, with some users discussing their trading strategies and others sharing their insights on the market. Additionally, users are looking for official announcements from the Soso team regarding the airdrop allocation and the effect of SosoValue on Sodex mainnet.",
+        "questions": [
+            "What are the criteria for participating in the Sodex testnet and mainnet?",
+            "How does the airdrop allocation of SosoValue affect Sodex mainnet?",
+            "What are the requirements for getting roles in the Sodex and SosoValue communities?"
+        ]
+    }
+}

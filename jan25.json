@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "target_date": "jan25",
+        "timezone": "UTC+3",
+        "extracted_at": "2026-01-26T00:45:38.877169+00:00"
+    },
+    "vitals": {
+        "total_messages": 492,
+        "active_users_count": 127,
+        "gm_count": 121
+    },
+    "hourly_activity": {
+        "00:00": 26,
+        "01:00": 15,
+        "02:00": 8,
+        "03:00": 3,
+        "04:00": 3,
+        "05:00": 16,
+        "06:00": 10,
+        "07:00": 6,
+        "08:00": 35,
+        "09:00": 8,
+        "10:00": 17,
+        "11:00": 25,
+        "12:00": 8,
+        "13:00": 38,
+        "14:00": 31,
+        "15:00": 122,
+        "16:00": 18,
+        "17:00": 16,
+        "18:00": 14,
+        "19:00": 19,
+        "20:00": 22,
+        "21:00": 5,
+        "22:00": 19,
+        "23:00": 8
+    },
+    "top_moderators": [
+        {
+            "name": "nanee70092",
+            "messages": 11
+        },
+        {
+            "name": "lutzs120",
+            "messages": 6
+        },
+        {
+            "name": "mickmite.",
+            "messages": 1
+        }
+    ],
+    "top_chatters": [
+        {
+            "name": "sheylee998",
+            "messages": 54
+        },
+        {
+            "name": "disiplin8900",
+            "messages": 43
+        },
+        {
+            "name": "paschalj",
+            "messages": 24
+        },
+        {
+            "name": "geralxy14",
+            "messages": 21
+        },
+        {
+            "name": "cumy",
+            "messages": 21
+        },
+        {
+            "name": "vorsion_xry0t",
+            "messages": 17
+        },
+        {
+            "name": "chess6",
+            "messages": 14
+        },
+        {
+            "name": "pvcuong90",
+            "messages": 13
+        },
+        {
+            "name": "nanee70092",
+            "messages": 11
+        },
+        {
+            "name": "danwizzy.",
+            "messages": 9
+        }
+    ],
+    "ai_analysis": {
+        "summary_paragraph": "",
+        "top_3_questions": [],
+        "summary": "The community is discussing Sodex and SosoValue, with many users expressing excitement and anticipation for the project's rewards and airdrops. Some users are inquiring about how to get Soso holder roles, while others are sharing their experiences and tips for trading on the Sodex mainnet and testnet. There are also concerns about the security of the project, with some users warning about potential scams and advising others to be cautious. Overall, the mood is optimistic, with many users looking forward to the project's potential for growth and success.",
+        "questions": [
+            "What are the requirements to get Soso holder roles?",
+            "How can users participate in the Sodex mainnet and testnet trading?",
+            "Will V1 users be rewarded, and how will the rewards be distributed among users?"
+        ]
+    }
+}

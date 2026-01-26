@@ -2,7 +2,7 @@
     "metadata": {
         "target_date": "jan25",
         "timezone": "UTC+3",
-        "extracted_at": "2026-01-26T00:45:38.877169+00:00"
+        "extracted_at": "2026-01-26T14:29:07.530988+00:00"
     },
     "vitals": {
         "total_messages": 492,
@@ -94,11 +94,11 @@
     "ai_analysis": {
         "summary_paragraph": "",
         "top_3_questions": [],
-        "summary": "The community is discussing Sodex and SosoValue, with many users expressing excitement and anticipation for the project's rewards and airdrops. Some users are inquiring about how to get Soso holder roles, while others are sharing their experiences and tips for trading on the Sodex mainnet and testnet. There are also concerns about the security of the project, with some users warning about potential scams and advising others to be cautious. Overall, the mood is optimistic, with many users looking forward to the project's potential for growth and success.",
+        "summary": "Many users are discussing their experience and expectations with Sodex, while also sharing their knowledge and asking questions about the project, including its potential for financial freedom and the possibility of receiving rewards. There is a sense of community and camaraderie, with users supporting and encouraging one another. Some users are inquiring about the SosoValue exp and roles, as well as the requirements to get the Sodex user role. Others are asking about the relationship between Sodex and SosoValue, and how to get more roles. There is also a discussion about the importance of staying safe and avoiding scams.",
         "questions": [
-            "What are the requirements to get Soso holder roles?",
-            "How can users participate in the Sodex mainnet and testnet trading?",
-            "Will V1 users be rewarded, and how will the rewards be distributed among users?"
+            "What are the requirements to get the Sodex user role?",
+            "How can users get more roles in Sodex and SosoValue?",
+            "Will users who participated in the Sodex testnet be rewarded, and if so, what will be the criteria for the rewards?"
         ]
     }
 }

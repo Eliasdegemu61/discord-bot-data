@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "target_date": "jan26",
+        "timezone": "UTC+3",
+        "extracted_at": "2026-01-27T02:17:57.396065+00:00"
+    },
+    "vitals": {
+        "total_messages": 395,
+        "active_users_count": 156,
+        "gm_count": 185
+    },
+    "hourly_activity": {
+        "00:00": 3,
+        "01:00": 16,
+        "02:00": 4,
+        "03:00": 8,
+        "04:00": 6,
+        "05:00": 24,
+        "06:00": 11,
+        "07:00": 16,
+        "08:00": 22,
+        "09:00": 12,
+        "10:00": 15,
+        "11:00": 19,
+        "12:00": 13,
+        "13:00": 23,
+        "14:00": 22,
+        "15:00": 22,
+        "16:00": 40,
+        "17:00": 11,
+        "18:00": 11,
+        "19:00": 35,
+        "20:00": 9,
+        "21:00": 5,
+        "22:00": 31,
+        "23:00": 17
+    },
+    "top_moderators": [
+        {
+            "name": "mickmite.",
+            "messages": 8
+        },
+        {
+            "name": "nanee70092",
+            "messages": 6
+        }
+    ],
+    "top_chatters": [
+        {
+            "name": "pvcuong90",
+            "messages": 25
+        },
+        {
+            "name": "julien.14",
+            "messages": 20
+        },
+        {
+            "name": "chess6",
+            "messages": 16
+        },
+        {
+            "name": "vitalii032728",
+            "messages": 15
+        },
+        {
+            "name": "hossain_bd",
+            "messages": 12
+        },
+        {
+            "name": "derrick8792",
+            "messages": 11
+        },
+        {
+            "name": "geralxy14",
+            "messages": 8
+        },
+        {
+            "name": "mickmite.",
+            "messages": 8
+        },
+        {
+            "name": "loveed2025_33971",
+            "messages": 7
+        },
+        {
+            "name": "vorsion_xry0t",
+            "messages": 7
+        }
+    ],
+    "ai_analysis": {
+        "summary_paragraph": "",
+        "top_3_questions": [],
+        "summary": "The community is actively discussing Sodex and SosoValue, with many users inquiring about the testnet rewards and airdrop allocation. Some users are expressing concerns about scammers in the community, while others are sharing their experiences and offering advice on how to stay safe. The overall mood is cautious yet optimistic, with many users looking forward to the upcoming airdrop and testnet rewards.",
+        "questions": [
+            "Will buying, selling, or on-chain activity on Sodex's mainnet affect Sosovalue's airdrop allocation?",
+            "How can users qualify for the Sodex testnet rewards?",
+            "When is the expected date for the SosoValue airdrop?"
+        ]
+    }
+}

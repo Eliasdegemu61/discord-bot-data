@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "target_date": "jan27",
+        "timezone": "UTC+3",
+        "extracted_at": "2026-01-28T08:56:08.284303+00:00"
+    },
+    "vitals": {
+        "total_messages": 488,
+        "active_users_count": 156,
+        "gm_count": 169
+    },
+    "hourly_activity": {
+        "00:00": 20,
+        "01:00": 17,
+        "02:00": 9,
+        "03:00": 3,
+        "04:00": 8,
+        "05:00": 10,
+        "06:00": 7,
+        "07:00": 9,
+        "08:00": 15,
+        "09:00": 11,
+        "10:00": 19,
+        "11:00": 34,
+        "12:00": 14,
+        "13:00": 22,
+        "14:00": 15,
+        "15:00": 18,
+        "16:00": 40,
+        "17:00": 14,
+        "18:00": 24,
+        "19:00": 12,
+        "20:00": 18,
+        "21:00": 23,
+        "22:00": 103,
+        "23:00": 23
+    },
+    "top_moderators": [
+        {
+            "name": "lutzs120",
+            "messages": 20
+        },
+        {
+            "name": "mickmite.",
+            "messages": 10
+        },
+        {
+            "name": "nanee70092",
+            "messages": 6
+        }
+    ],
+    "top_chatters": [
+        {
+            "name": "janneh2000",
+            "messages": 33
+        },
+        {
+            "name": "teja0974",
+            "messages": 31
+        },
+        {
+            "name": "julien.14",
+            "messages": 20
+        },
+        {
+            "name": "lutzs120",
+            "messages": 20
+        },
+        {
+            "name": "chess6",
+            "messages": 18
+        },
+        {
+            "name": "geralxy14",
+            "messages": 18
+        },
+        {
+            "name": "hossain_bd",
+            "messages": 17
+        },
+        {
+            "name": "crypto_biggz",
+            "messages": 15
+        },
+        {
+            "name": "pvcuong90",
+            "messages": 15
+        },
+        {
+            "name": "hacker_dbk._28963",
+            "messages": 12
+        }
+    ],
+    "ai_analysis": {
+        "summary_paragraph": "",
+        "top_3_questions": [],
+        "summary": "The community is active and engaged, with many users discussing their experiences and asking questions about Sodex and SosoValue. Some users are inquiring about roles, rewards, and the status of the mainnet, while others are sharing their trading volumes and experiences. There is also a sense of camaraderie and welcoming among community members, with many greetings and introductions being exchanged. However, some users are experiencing issues with bans and warnings, and there are discussions about the need for clearer guidelines and more effective moderation.",
+        "questions": [
+            "What are the requirements for getting a role in the Sodex community?",
+            "How can users claim rewards and what are the conditions for eligibility?",
+            "What is the current status of the SosoValue airdrop and when can users expect to receive their rewards?"
+        ]
+    }
+}

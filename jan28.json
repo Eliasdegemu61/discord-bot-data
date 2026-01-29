@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "target_date": "jan28",
+        "timezone": "UTC+3",
+        "extracted_at": "2026-01-29T02:59:56.230419+00:00"
+    },
+    "vitals": {
+        "total_messages": 427,
+        "active_users_count": 136,
+        "gm_count": 151
+    },
+    "hourly_activity": {
+        "00:00": 6,
+        "01:00": 6,
+        "02:00": 14,
+        "03:00": 7,
+        "04:00": 9,
+        "05:00": 13,
+        "06:00": 12,
+        "07:00": 6,
+        "08:00": 3,
+        "09:00": 17,
+        "10:00": 14,
+        "11:00": 34,
+        "12:00": 18,
+        "13:00": 12,
+        "14:00": 14,
+        "15:00": 30,
+        "16:00": 30,
+        "17:00": 18,
+        "18:00": 7,
+        "19:00": 43,
+        "20:00": 46,
+        "21:00": 33,
+        "22:00": 24,
+        "23:00": 11
+    },
+    "top_moderators": [
+        {
+            "name": "lutzs120",
+            "messages": 8
+        },
+        {
+            "name": "nanee70092",
+            "messages": 4
+        },
+        {
+            "name": "mickmite.",
+            "messages": 1
+        }
+    ],
+    "top_chatters": [
+        {
+            "name": "saidu2000",
+            "messages": 30
+        },
+        {
+            "name": "loveed2025_33971",
+            "messages": 29
+        },
+        {
+            "name": "funofsuccess_28515",
+            "messages": 23
+        },
+        {
+            "name": "techbundo",
+            "messages": 22
+        },
+        {
+            "name": "hossain_bd",
+            "messages": 16
+        },
+        {
+            "name": "julien.14",
+            "messages": 16
+        },
+        {
+            "name": "chess6",
+            "messages": 15
+        },
+        {
+            "name": "andy024443",
+            "messages": 12
+        },
+        {
+            "name": "cemarikan",
+            "messages": 11
+        },
+        {
+            "name": "ajaykumar7860",
+            "messages": 10
+        }
+    ],
+    "ai_analysis": {
+        "summary_paragraph": "",
+        "top_3_questions": [],
+        "summary": "The community is actively discussing Sodex and SosoValue, with users sharing their experiences and points earned on the testnet. Many are speculating about the upcoming rewards and eligibility criteria, with some expressing concerns about the limited number of active users and the potential impact on the reward pool. Others are seeking clarification on the meaning of SIP-2 and the value of the ecosystem incentive for rewarding Sodex users.",
+        "questions": [
+            "What is the exact criteria for eligibility for the 1 million Soso reward, and will users with low points and participation be ineligible?",
+            "Will the prize pool be increased from 1 million Soso, and how will the rewards be distributed among the 40,000 users?",
+            "What is the meaning of SIP-2, and how does it relate to the Season Incentive Program and the Sosoexp incentive program?"
+        ]
+    }
+}
